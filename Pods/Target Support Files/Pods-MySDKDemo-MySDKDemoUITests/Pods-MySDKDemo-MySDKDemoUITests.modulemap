@@ -1,0 +1,6 @@
+framework module Pods_MySDKDemo_MySDKDemoUITests {
+  umbrella header "Pods-MySDKDemo-MySDKDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
